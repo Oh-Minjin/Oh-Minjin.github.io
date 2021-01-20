@@ -22,6 +22,7 @@ plainwhite:
   #portfolio_image_dark: "" # to use a different image for dark mode.
   disqus_shortname : oh-minjin-github-io # comment(댓글달기) using disqus
   analytics_id : "<G-WVTR6E5ZEH>" # 방문자 분석(통계) using Google Analytics
+  baseurl: "/blog"
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   navigation:
     - title: My work
