@@ -25,7 +25,7 @@ plainwhite:
   baseurl: "/blog"
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   navigation:
-    - title: Python Algorithm Study
+    - title: Python
       url: "/Python"
     - title: C
       url: "/C"
