@@ -29,7 +29,7 @@ plainwhite:
     - title: Resume
       url: "/resume"
   condensed_mobile:
-    - home
+    #- home
     - page
     - post
   # generate social links in footer
