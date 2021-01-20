@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 오민진
+  name: Minjin_Oh
   tagline: Student. Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -27,7 +27,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: samarsault
-    github:  samarsault
+    github:  https://github.com/Oh-Minjin
     linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
