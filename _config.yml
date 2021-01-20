@@ -12,7 +12,6 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  disqus_shortname: games
   name: Minjin_Oh
   tagline: Student. Developer
   date_format: "%b %-d, %Y"
@@ -21,6 +20,7 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/profile.png" # the path from the base directory of the site to the image to display (no / at the start)
   #portfolio_image_dark: "" # to use a different image for dark mode.
+  disqus_shortname : oh-minjin-github-io # comment(댓글달기) using disqus
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
