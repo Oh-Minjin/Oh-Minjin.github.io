@@ -2,7 +2,7 @@
 layout: post
 title:  "First Posting"
 date:   2021-01-21 14:09:36 +0530
-categories: Daily
+categories: Python
 ---
 *My First Posting!*
 
