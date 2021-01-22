@@ -29,7 +29,7 @@ categories: ['Python']
 
 ![](\assets\python_algorithm_interview.png)
 
- [출처 - http://www.yes24.com/Product/Goods/91084402](http://www.yes24.com/Product/Goods/91084402)
+ [출처 - yes24](http://www.yes24.com/Product/Goods/91084402)
 
 ### Homework
 
