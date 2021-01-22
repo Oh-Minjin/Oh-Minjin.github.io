@@ -27,6 +27,8 @@ plainwhite:
   navigation:
     - title: About
       url: "/about"
+    - title: Python
+      url: "/category/python"
   condensed_mobile:
     #- home
     - page
