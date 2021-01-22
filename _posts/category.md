@@ -1,7 +1,7 @@
 ---
 title: "Posts by Category"
 layout: category
-permalink: /Python
+permalink: /python
 author_profile: true
 ---
 
