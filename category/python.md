@@ -1,4 +1,3 @@
-```markdown
 ---
 
 layout: category
@@ -6,4 +5,4 @@ layout: category
 title: Python
 
 ---
-```
+
