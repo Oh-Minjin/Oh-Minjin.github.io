@@ -27,9 +27,7 @@ categories: ['Python']
 
 스터디에서 사용할 책은 '*파이썬 알고리즘 인터뷰*'로 결정했다.
 
-<img src="D:\GIT\Oh-Minjin.github.io\assets\python_algorithm_interview.png" style="zoom:50%;" />
-
-[http://www.yes24.com/Product/Goods/91084402]: http://www.yes24.com/Product/Goods/91084402	"출처 - yes24"
+![Alt text](D:\GIT\Oh-Minjin.github.io\assets\python_algorithm_interview.png)
 
 
 
